@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "title": "test1",
+      "description": "test1",
+      "userId": "108116801295958977338",
+      "id": 1
+    },
+    {
+      "title": "test2",
+      "description": "test2",
+      "userId": "108116801295958977338",
+      "id": 2
+    },
+    {
+      "title": "test3",
+      "description": "test3",
+      "userId": "108116801295958977338",
+      "id": 3
+    }
+  ]
+}
